@@ -1,0 +1,9 @@
+# Out-of-tree build products
+/build_*/
+/RP-26Rune/output/
+
+# Third-party dependencies belong outside the repository.
+/deps/
+
+# Local Python cache
+/probe/__pycache__/

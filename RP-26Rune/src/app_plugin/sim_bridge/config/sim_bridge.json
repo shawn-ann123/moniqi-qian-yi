@@ -1,0 +1,27 @@
+{
+  "sim": {
+    "ipc_directory": "",
+    "connect_retry_ms": 1000,
+    "frame_timeout_ms": 1000
+  },
+  "aim": {
+    "mode": 3,
+    "my_color": 0,
+    "is_start": 1,
+    "is_ready": 1
+  },
+  "send": {
+    "yaw_offset_deg": 0.0,
+    "yaw_scale": 1.0,
+    "pitch_scale": 1.0,
+    "pitch_offset_deg": 65.0,
+    "fire_enabled": 1,
+    "fire_interval_ms": 100,
+    "send_when_not_found": 0
+  },
+  "debug_frame_dump": {
+    "enabled": 1,
+    "every_n": 10,
+    "dir": "/tmp/rune_frames"
+  }
+}

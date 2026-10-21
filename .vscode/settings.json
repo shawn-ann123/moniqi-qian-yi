@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/RP-26Rune",
+    "cmake.buildDirectory": "${userHome}/.cache/rp26-rune/build",
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "${workspaceFolder}/cmake/rp26-user-deps.cmake",
+        "DAEDALUS_SIM_SDK_ROOT": "/home/shawn/桌面/rm/daedalus-intel-optimized/sdk"
+    }
+}
